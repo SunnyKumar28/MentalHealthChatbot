@@ -1,0 +1,9 @@
+streamlit==1.25.0
+tensorflow==2.13.0
+keras==2.13.0
+numpy==1.24.4
+pandas==1.5.3
+openai==0.27.8
+Pillow==9.3.0
+jsonschema==4.17.3
+
